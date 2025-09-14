@@ -1,6 +1,6 @@
 # A Curated Collection of My Work on GCP
 
-This document curates my open-source GitHub projects on Google Cloud Platform (GCP). The content primarily focuses on data engineering, Change Data Capture (CDC), real-time data pipelines, and Generative AI with Vertex AI.
+A personal playbook for fellow GCP practitioners, born from real-world experience. This curated collection includes practical code samples, architectural patterns, presentation decks, and video tutorials covering Generative AI with Vertex AI, AI Agents, Vertex AI Search for Commerce, Data Analytics, and Data Engineering.
 
 ## Open-Source GitHub Projects
 
