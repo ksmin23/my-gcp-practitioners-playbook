@@ -26,5 +26,9 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
 *   [my-adk-python-samples/shop-agent-app](https://github.com/ksmin23/my-adk-python-samples/tree/main/shop-agent-app): A sample shopping agent application.
 *   [my-adk-python-samples/shopper-concierge-demo](https://github.com/ksmin23/my-adk-python-samples/tree/main/shopper-concierge-demo): A demonstration of a shopper concierge service using GenAI on GCP.
 
+### Agent Memory
+*   [my-adk-python-samples/agent-memory/redis-session-service](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-session-service): An agent that demonstrates how to use Redis for session state management, allowing for scalable and persistent user sessions.
+*   [my-adk-python-samples/agent-memory/redis-memory-service](httpss://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-memory-service): An agent demonstrating a custom long-term memory service using Redis.
+
 ### Tooling & Guides
 *   [gemini-cli-with-mcp-toolbox-for-databases](https://github.com/ksmin23/gemini-cli-with-mcp-toolbox-for-databases): A guide on using the Gemini CLI with the MCP Toolbox for database management on GCP.
