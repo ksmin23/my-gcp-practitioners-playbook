@@ -27,6 +27,7 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
 *   [my-adk-python-samples/restaurant-finder](https://github.com/ksmin23/my-adk-python-samples/tree/main/restaurant-finder): A conversational agent for finding restaurants, built with GCP services.
 *   [my-adk-python-samples/shop-agent-app](https://github.com/ksmin23/my-adk-python-samples/tree/main/shop-agent-app): A sample shopping agent application.
 *   [my-adk-python-samples/shopper-concierge-demo](https://github.com/ksmin23/my-adk-python-samples/tree/main/shopper-concierge-demo): A demonstration of a shopper concierge service using GenAI on GCP.
+*   [my-adk-python-samples/dynamic-tool-search-tool](https://github.com/ksmin23/my-adk-python-samples/tree/main/dynamic-tool-search-tool): An advanced agent demonstrating dynamic discovery and loading of tools from Google Managed MCP servers using a "Search & Load" pattern with BM25 search.
 
 ### Agent Memory
 *   [my-adk-python-samples/agent-memory/redis-session-service](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-session-service): An agent that demonstrates how to use Redis for session state management, allowing for scalable and persistent user sessions.
