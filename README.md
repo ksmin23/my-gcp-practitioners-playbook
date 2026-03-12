@@ -22,7 +22,8 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
     *   [RAG with Spanner](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-spanner): An Agentic RAG implementation using the vector search feature of Google Cloud Spanner.
     *   [RAG with Vector Search and Datastore](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-vectorsearch-ds): An Agentic RAG implementation using Vertex AI Vector Search for vector retrieval and Firestore in Datastore mode as the document store.
     *   [RAG with Vector Search and GCS](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-vectorsearch-gcs): An Agentic RAG implementation using Vertex AI Vector Search for vector retrieval and Google Cloud Storage (GCS) as the document store.
-    *   [RAG with Vector Search 2.0](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-vectorsearch-2.0): An Agentic RAG implementation using Vertex AI Vector Search 2.0. Features unified data storage, auto-embeddings, and hybrid search (Semantic + Keyword) with RRF ranking.
+    *   [RAG with Vector Search 2.0](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-vectorsearch-2.0): An Agentic RAG implementation using **Vertex AI Vector Search 2.0**. Features unified data storage, auto-embeddings, and hybrid search (Semantic + Keyword) with RRF ranking.
+    *   [RAG with Gemini File Search](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-file-search): An Agentic RAG implementation using **Gemini File Search**, a fully managed RAG system. Features hands-off file search store management, auto-ingestion, session isolation, and MIME type patching.
 *   [my-adk-python-samples/Graph-RAG](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG): A collection of Graph Retrieval-Augmented Generation (Graph RAG) samples.
     *   [Graph RAG with Spanner](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/graph-rag-with-spanner): An agent that implements the Graph RAG pattern using Google Cloud Spanner Graph for knowledge graph storage and retrieval.
 *   [my-adk-python-samples/restaurant-finder](https://github.com/ksmin23/my-adk-python-samples/tree/main/restaurant-finder): A conversational agent for finding restaurants, built with GCP services.
@@ -40,3 +41,14 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
 
 ### Tooling & Guides
 *   [gemini-cli-with-mcp-toolbox-for-databases](https://github.com/ksmin23/gemini-cli-with-mcp-toolbox-for-databases): A guide on using the Gemini CLI with the MCP Toolbox for database management on GCP.
+
+## References
+
+-   [ADK Official Docs](https://google.github.io/adk-docs/)
+    -   [ADK Python Repository](https://github.com/google/adk-python)
+    - [ADK Crash Course - From Beginner To Expert](https://codelabs.developers.google.com/onramp/instructions#0)
+    - [Google ADK Masterclass](https://github.com/arjunprabhulal/google-adk-masterclass)
+-   [ADK Python Community Contributions](https://github.com/google/adk-python-community)
+-   [ADK Samples Repo](https://github.com/google/adk-samples)
+-   [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#heading=h.pxcur8v2qagu)
+-   [ADK Web Book by Amulya Bhatia](https://iamulya.one/tags/agent-development-kit/)
