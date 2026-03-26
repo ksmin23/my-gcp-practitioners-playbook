@@ -13,6 +13,8 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
 
 ### Generative AI & Vertex AI
 *   [mcp-vertex-ai-retail-search-server](https://github.com/ksmin23/mcp-vertex-ai-retail-search-server): A Python-based server that provides a retail search API using the Google Cloud Vertex AI Search for Retail service.
+*   [lightrag-spanner](https://github.com/ksmin23/lightrag-spanner): A Google Cloud Spanner storage plugin for LightRAG. It provides KV, Vector, Graph, and DocStatus storage classes as an external plugin — no modifications to LightRAG source code required.
+*   [PathRAG](https://github.com/ksmin23/PathRAG): A Path-based Retrieval-Augmented Generation (PathRAG) library. **Contributed the Google Cloud Spanner storage backend (Graph, Vector, KV) and LiteLLM/Gemini model support to the original framework.**
 *   [my-adk-python-samples/gcp-releasenotes-agent-app](https://github.com/ksmin23/my-adk-python-samples/tree/main/gcp-releasenotes-agent-app): A GenAI-powered agent that summarizes Google Cloud release notes.
 *   [my-adk-python-samples/RAG](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG): A collection of Retrieval-Augmented Generation (RAG) samples using various GCP services.
     *   [RAG Engine with Managed DB](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-engine-with-managed-db): Implements an Agentic RAG application using the Vertex AI RAG Engine with its own fully managed database.
@@ -26,6 +28,8 @@ A personal playbook for fellow GCP practitioners, born from real-world experienc
     *   [RAG with Gemini File Search](https://github.com/ksmin23/my-adk-python-samples/tree/main/RAG/rag-with-file-search): An Agentic RAG implementation using **Gemini File Search**, a fully managed RAG system. Features hands-off file search store management, auto-ingestion, session isolation, and MIME type patching.
 *   [my-adk-python-samples/Graph-RAG](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG): A collection of Graph Retrieval-Augmented Generation (Graph RAG) samples.
     *   [Graph RAG with Spanner](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/graph-rag-with-spanner): An agent that implements the Graph RAG pattern using Google Cloud Spanner Graph for knowledge graph storage and retrieval.
+    *   [PathRAG with Spanner](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/pathrag-with-spanner): An agent that implements the PathRAG pattern using the PathRAG library with Google Cloud Spanner.
+    *   [LightRAG with Spanner](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/lightrag-with-spanner): An agent that implements the LightRAG pattern using the Agent Development Kit (ADK) with Google Cloud Spanner.
 *   [my-adk-python-samples/restaurant-finder](https://github.com/ksmin23/my-adk-python-samples/tree/main/restaurant-finder): A conversational agent for finding restaurants, built with GCP services.
 *   [my-adk-python-samples/shop-agent-app](https://github.com/ksmin23/my-adk-python-samples/tree/main/shop-agent-app): A sample shopping agent application.
 *   [my-adk-python-samples/shopper-concierge-demo](https://github.com/ksmin23/my-adk-python-samples/tree/main/shopper-concierge-demo): A demonstration of a shopper concierge service using GenAI on GCP.
